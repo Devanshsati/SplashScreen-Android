@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="splash_logo">splash logo</string>
+    <string name="made_by_ds">Made with 💛 by Devansh Sati</string>
+</resources>
